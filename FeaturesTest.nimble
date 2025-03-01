@@ -9,6 +9,6 @@ srcDir        = "src"
 
 # Dependencies
 
-requires "nim >= 2.3.1"
+requires "nim"
 feature "feature1":
   requires "stew"
